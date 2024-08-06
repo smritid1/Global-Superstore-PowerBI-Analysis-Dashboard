@@ -1,11 +1,20 @@
 # Global-Superstore-PowerBI-Analysis-Dashboard
-# Power BI Sales Dashboard - Superstore
+
 
 ## Overview
 
-This Power BI Sales Dashboard offers a detailed analysis of sales data for the Superstore, aimed at helping stakeholders understand performance, identify trends, and make informed decisions. The dashboard includes various visualizations and metrics that provide insights into different aspects of the sales operations.
+This Power BI Sales Dashboard offers a detailed analysis of sales data for the Superstore, aimed at helping stakeholders understand performance, identify trends, and make informed decisions. It provides a comprehensive analysis of sales data for a Superstore. The dashboard includes various visualizations and metrics that provide insights into different aspects of the sales operations.
 
 ## Features
+
+- **Sales Performance**: Visualizations showing overall sales, sales growth, and comparisons with previous periods.
+- **Product Analysis**: Insights into top-performing products, categories, and subcategories.
+- **Customer Insights**: Analysis of customer demographics, purchasing behavior, and segmentation.
+- **Geographic Analysis**: Sales distribution across different regions and states.
+- **Time Series Analysis**: Trends over time, seasonal patterns, and forecasting.
+- **Profitability Metrics**: Gross profit, profit margins, and cost analysis.
+- **Interactive Filters**: Ability to filter data by time period, product category, region, and more.
+
 
 - **Total Sales Overview**
   - Total products
@@ -66,6 +75,7 @@ This Power BI Sales Dashboard offers a detailed analysis of sales data for the S
 - Standard Class: 59.95% (~8M)
 
 ### Sales by Sub-Category
+Insights into top-performing products, categories, and subcategories.
 
 - Phones: 1.71M
 - Copiers: 1.50M
