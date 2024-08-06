@@ -14,23 +14,6 @@ This Power BI Sales Dashboard offers a detailed analysis of sales data for the S
 - **Interactive Filters**: Ability to filter data by time period and region.
 
 
-- **Total Sales Overview**
-  - Total products
-  - Total customers
-  - Total sales
-  - Net profit margin
-  - Average discount
-- **Product Performance**
-  - Sales and profit by product category
-- **Geographic Analysis**
-  - Top 5 countries by profit gain
-- **Shipping Analysis**
-  - Sales distribution by ship mode
-- **Sub-Category Performance**
-  - Sales and profit by sub-category
-- **Time Series Analysis**
-  - Monthly and yearly sales trends
-
 ## Key Metrics
 
 - **Total Products**: 10K
@@ -59,11 +42,11 @@ This Power BI Sales Dashboard offers a detailed analysis of sales data for the S
 
 ### Top 5 Countries by Profit Gain
 
-1. United States: ~280K
-2. China: ~180K
-3. India: ~150K
-4. United Kingdom: ~130K
-5. France: ~80K
+1. United States: ~0.28M
+2. China: ~0.18M
+3. India: ~0.15M
+4. United Kingdom: ~0.13M
+5. France: ~0.08M
 
 ### Sales by Ship Mode
 
@@ -75,23 +58,17 @@ This Power BI Sales Dashboard offers a detailed analysis of sales data for the S
 ### Sales by Sub-Category
 
 - Phones: 1.71M
-- Copiers: 1.50M
-- Chairs: 1.47M
-- Bookcases: 1.13M
-- Storage: 1.01M
-- Appliances: 780K
+- Copiers: 1.51M
+- Chairs: 1.50M
+- Bookcases: 1.47M
+- Storage: 1.13M
+- Appliances: 1.01M
 
 ### Sales by Month and Year
 
 - Sales trend shows a general increase in sales over the years 2012, 2013, and 2014
 - Highest sales recorded in December 2014 (~0.53M)
-- 
 
-## How to Use
-
-- **Date Filter**: Use the date filter to adjust the time period for analysis
-- **Region Filter**: Select specific regions to focus on sales performance in those areas
-- **Interactive Charts**: Click on various elements of the charts and graphs for a more detailed view and drill-down analysis
 
 ## Conclusion
 
