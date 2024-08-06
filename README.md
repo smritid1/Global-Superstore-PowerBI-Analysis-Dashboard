@@ -3,17 +3,15 @@
 
 ## Overview
 
-This Power BI Sales Dashboard offers a detailed analysis of sales data for the Superstore, aimed at helping stakeholders understand performance, identify trends, and make informed decisions. It provides a comprehensive analysis of sales data for a Superstore. The dashboard includes various visualizations and metrics that provide insights into different aspects of the sales operations.
+This Power BI Sales Dashboard offers a detailed analysis of sales data for the Superstore, aimed at helping stakeholders understand performance, identify trends, and make informed decisions. It provides a comprehensive analysis of sales data for a Superstore. The dashboard includes various visualizations and metrics that provide insights into different aspects of the sales operations. Here are some insights derived from the dashboard:
 
 ## Features
 
-- **Sales Performance**: Visualizations showing overall sales, sales growth, and comparisons with previous periods.
-- **Product Analysis**: Insights into top-performing products, categories, and subcategories.
-- **Customer Insights**: Analysis of customer demographics, purchasing behavior, and segmentation.
-- **Geographic Analysis**: Sales distribution across different regions and states.
-- **Time Series Analysis**: Trends over time, seasonal patterns, and forecasting.
-- **Profitability Metrics**: Gross profit, profit margins, and cost analysis.
-- **Interactive Filters**: Ability to filter data by time period, product category, region, and more.
+- **Product Analysis**: Insights into top-performing categories, and subcategories.
+- **Geographic Analysis**: Sales distribution across different regions.
+- **Time Series Analysis**: Trends over time, seasonal patterns.
+- **Profitability Metrics**: Net profit analysis.
+- **Interactive Filters**: Ability to filter data by time period and region.
 
 
 - **Total Sales Overview**
@@ -75,7 +73,6 @@ This Power BI Sales Dashboard offers a detailed analysis of sales data for the S
 - Standard Class: 59.95% (~8M)
 
 ### Sales by Sub-Category
-Insights into top-performing products, categories, and subcategories.
 
 - Phones: 1.71M
 - Copiers: 1.50M
@@ -86,8 +83,9 @@ Insights into top-performing products, categories, and subcategories.
 
 ### Sales by Month and Year
 
-- General increase in sales over the years 2012, 2013, and 2014
-- Highest sales recorded in December 2014 (~530K)
+- Sales trend shows a general increase in sales over the years 2012, 2013, and 2014
+- Highest sales recorded in December 2014 (~0.53M)
+- 
 
 ## How to Use
 
